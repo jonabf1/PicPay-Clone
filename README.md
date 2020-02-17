@@ -7,37 +7,12 @@
 ### :page_with_curl: About
 This project is a clone of the PicPay application
 
-#### To start, **Docker** is required
-
 ### :rocket: How to install and start 
-- `git clone https://github.com/jonabf1/goBarber`
+- `git clone https://github.com/jonabf1/PicPay-Clone`
 - **Go to repository folder**
-- `docker-compose up` (in Backend)
-- `yarn start` (in Frontend)
-
-### :page_facing_up: Routes in Backend
-
-- **post('/users')** - Create a login
-- **post('/sessions')** - Log in to an account
-
-#### From here, authentication is required
-
-- **put('/users')** - Update an account
-- **get('/providers')** - List providers
-- **get('/providers/:providerId/available')** - Check provider availability
-- **post('/appointments')** - Create an appointment
-- **get('/appointments')** - List all logged-in user's appointments
-- **delete('/appointments/:id')** - Delete an appointment
-- **get('/schedule')** - Schedule services
-- **post('/files')** - Profile pictures
-- **get('/notifications')** - List all logged in user notifications
-- **put('/notifications/:id')** - Confirm notification was seen    
-
-### :heavy_check_mark: Result in Frontend
-
-<p align="center">
-  <img alt="" src="frontend/public/barber.gif">
-</p>
+- `yarn start` (Install all dependencies)
+- `react native run/android` (Build in app for Android or IOS emulator)
+- `react native start (Start the application service)
 
 ### :heavy_check_mark: Result in Mobile
 
