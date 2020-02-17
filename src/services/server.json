@@ -1,0 +1,372 @@
+{
+  "methods_payment": [
+    {
+      "id": 1,
+      "title": "Uber Pré-Pago",
+      "photo": "https://logodownload.org/wp-content/uploads/2015/05/uber-logo-1-1.png"
+    },
+    {
+      "id": 2,
+      "title": "@fernandasiqueira",
+      "photo": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80"
+    },
+    {
+      "id": 4,
+      "title": "Máquinas Cielo",
+      "photo": "https://www.planejarbrasil.com.br/wp-content/uploads/2018/02/LogoCielo1602.png"
+    },
+    {
+      "id": 5,
+      "title": "@segiopereira",
+      "photo": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 6,
+      "title": "@ricardoamorim",
+      "photo": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id": 9,
+      "title": "Google Play",
+      "photo": "https://aigaminn.org/images/google-logo-png-cool-7.png"
+    },
+    {
+      "id": 10,
+      "title": "Steam",
+      "photo": "https://img2.gratispng.com/20180604/xiy/kisspng-steam-computer-icons-logo-video-game-valves-5b14dba6212cf3.1367866015280936061359.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Sky",
+      "photo": "https://lh3.googleusercontent.com/proxy/eohSHpPhBxWzAkofbDvt6Tbpwr-nxdzdH52kZXmAlik6a6O8FjNzc99v6MQ7Z7Jo0VjAmcAXVTopLB_eF3eepx4FDZU28m0YQdh4_JeRmBEOFmsli6M2U87O_18"
+    },
+    {
+      "id": 12,
+      "title": "Spotify",
+      "photo": "https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Uber Eats",
+      "photo": "https://banner2.cleanpng.com/20180620/hjp/kisspng-uber-eats-pizza-food-delivery-restaurant-eat-street-express-5b2aa8d839e1d7.0953035415295223922371.jpg"
+    }
+  ],
+
+  "others_activity":[
+    {
+      "id": 1,
+      "owner":"@sergiopereira",
+      "color":"green",
+      "recipient":"Você",
+      "description":"Pizza ontem haha!!",
+      "value":"R$ 34,00",
+      "activity": "pagou",
+      "photo_owner": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "timestamp":"6 minutos",
+      "likes": 13,
+      "comments":[
+        {
+          "id":1,
+          "owner":"Atila Munhoz",
+          "photo_owner":"https://images.unsplash.com/photo-1552072805-2a9039d00e57?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "message": "Nem chama em kkkk"
+        },
+        {
+          "id":2,
+          "owner":"Fernanda Siqueira",
+          "photo_owner":"https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80",
+          "message": "Na proxima me convida"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "owner":"@fernandasiqueira",
+      "recipient":"@atilamunhoz",
+      "color":"red",
+      "description":"Bora pro cinema assistir Avengers",
+      "value":"R$ 57,00",
+      "activity": "pagou",
+      "photo_owner":"https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80",
+      "timestamp":"14 horas",
+      "likes": 23,
+      "comments":[
+        {
+          "id":1,
+          "owner":"Atila Munhoz",
+          "photo_owner":"https://images.unsplash.com/photo-1552072805-2a9039d00e57?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+          "message": "Esse filme é muito top"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "owner":"Você",
+      "color":"red",
+      "recipient":"Conta de luz",
+      "description":"Quitar as contas né kk",
+      "value":"R$ 130,00",
+      "activity": "pagou",
+      "photo_owner": "https://avatars2.githubusercontent.com/u/42827195?s=460&v=4",
+      "timestamp":"1 minuto",
+      "likes": 2,
+      "comments":[{}]
+    },
+    {       
+      "id": 4, 
+      "owner":"@ricardoamorin",
+      "recipient":"",
+      "color":"red",
+      "description":"Iphone novinho",
+      "value":"R$ 3.264.54",
+      "activity": "pagou um boleto",
+      "photo_owner": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "timestamp":"54 minutos",
+      "likes": 94,
+      "comments":[{}]
+    },
+    {       
+      "id": 14, 
+      "owner":"@ricardoamorin",
+      "recipient":"boleto",
+      "color":"red",
+      "description":"Iphone novinho",
+      "value":"R$ 3.264.54",
+      "activity": "pagou um",
+      "photo_owner": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "timestamp":"54 minutos",
+      "likes": 94,
+      "comments":[{}]
+    },
+    {
+      "id": 9,
+      "https://img2.gratispng.com/20180604/xiy/kisspng-steam-computer-icons-logo-video-game-valves-5b14dba6212cf3.1367866015280936061359.jpgowner":"Você",
+      "color":"red",
+      "recipient":"um boleto",
+      "description":"Notebook novo",
+      "value":"R$ 5.000,00",
+      "activity": "pagou",
+      "photo_owner": "https://avatars2.githubusercontent.com/u/42827195?s=460&v=4",
+      "timestamp":"43 minutos",
+      "likes": 26,
+      "comments":[{}]
+    },
+    {       
+      "id": 5, 
+      "owner":"@ricardoamorin",
+      "recipient":"boleto",
+      "color":"red",
+      "description":"Iphone novinho",
+      "value":"R$ 3.264.54",
+      "activity": "pagou um",
+      "photo_owner": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60",
+      "timestamp":"54 minutos",
+      "likes": 94,
+      "comments":[{}]
+    }
+  ],
+
+  "my_activity":[
+   {
+    "id": 11,
+    "owner":"Você",
+    "color":"red",
+    "recipient":"Conta de luz",
+    "description":"Quitar as contas né kk",
+    "value":"R$ 130,00",
+    "activity": "pagou",
+    "photo_owner": "https://avatars2.githubusercontent.com/u/42827195?s=460&v=4",
+    "timestamp":"1 minuto",
+    "likes": 2,
+    "comments":[{}]
+  },
+  {
+    "id": 12,
+    "owner":"Você",
+    "color":"red",
+    "recipient":"um boleto",
+    "description":"Notebook novo",
+    "value":"R$ 5.000,00",
+    "activity": "pagou",
+    "photo_owner": "https://avatars2.githubusercontent.com/u/42827195?s=460&v=4",
+    "timestamp":"43 minuto",
+    "likes": 26,
+    "comments":[{}]
+  }
+  ],
+  "notifications":[
+    {
+      "id": 1,
+      "description":"Seu código de autorização é ",
+      "code":"1242",
+      "continuation":".Utilize-o para liberar acesso a sua conta. Não compartilhe este código com ninguém.",
+      "created_at":"Ontem ás 11:42"
+    },
+    {
+      "id": 3,
+      "description":"Identificamos um novo acesso a sua conta. Toque aqui para saber mais ",
+      "code":"",
+      "created_at":"Ontem ás 11:42"
+    },
+    {
+      "id": 4,
+      "description":"Vai deixar passar? :) Hoje você ganha 20% de volta ao pagar o que quiser. Vem logo aproveitar! ",
+      "code":"",
+      "created_at":"Hoje ás 12:31"
+    },
+    {
+      "id": 5,
+      "description":"Ainda não usou o PicPay? Chegou a hora: 40% de volta para você aproveitar o que quiser com PicPay. Vem saber mais!",
+      "code":"",
+      "created_at":"06/02/2020 ás 15:21"
+    },
+    {
+      "id": 6,
+      "description":"Seu código de autorização é ",
+      "code":"2541",
+      "continuation":".Utilize-o para liberar acesso a sua conta. Não compartilhe este código com ninguém.",
+      "created_at":"Ontem ás 11:42"
+    },
+    {
+      "id": 8,
+      "description":"Seu código de autorização é ",
+      "code":"9831",
+      "continuation":".Utilize-o para liberar acesso a sua conta. Não compartilhe este código com ninguém.",
+      "created_at":"04/02/2020 ás 13:42"
+    },
+    {
+      "id": 9,
+      "description":"Seu código de autorização é ",
+      "code":"2541",
+      "continuation":".Utilize-o para liberar acesso a sua conta. Não compartilhe este código com ninguém.",
+      "created_at":"Ontem ás 11:42"
+    },
+    {
+      "id": 11,
+      "description":"Seu código de autorização é ",
+      "code":"9831",
+      "continuation":".Utilize-o para liberar acesso a sua conta. Não compartilhe este código com ninguém.",
+      "created_at":"04/02/2020 ás 13:42"
+    }
+  ],
+
+  "friends":[
+    {
+      "id":1,
+      "name":"Sergio Pereira",
+      "account":"@sergiopereira",
+      "photo": "https://images.unsplash.com/photo-1544723795-3fb6469f5b39?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    },
+    {
+      "id":2,
+      "name":"Fernanda Siqueira",
+      "account":"@fernandasiqueira",
+      "photo": "https://images.unsplash.com/photo-1554151228-14d9def656e4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=333&q=80"
+    },
+    {
+      "id":3,
+      "name":"Ricardo Amorim",
+      "account":"@ricardoamorim",
+      "photo": "https://images.unsplash.com/photo-1552058544-f2b08422138a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+    }
+  ],
+
+  "places":[
+    {
+      "id":1,
+      "name":"Recanto do zé",
+      "distance":"8.2km",
+      "address":"Rua Schmyxz, São Paulo, São Paulo"
+    },
+    {
+      "id":2,
+      "name":"Churrascaria Andorinha",
+      "distance":"35.5km",
+      "address":"Rua Andorinha, São Paulo, Santo André"
+    }
+  ],
+  
+  "services":[
+    {
+      "id":1,
+      "name":"Recarga de celular",
+      "description":"Vivo, Claro, Tim, Oi, Nextel, Algar, Sercomtel",
+      "store_image":"https://www.meuacesso.com.br/wp-content/uploads/2017/07/mais-papo.png"
+    },
+    {
+      "id":2,
+      "name":"Recarga de celular",
+      "description":"Cobre um amigo",
+      "store_image":"https://www.ficaon.com/wp-content/uploads/2018/04/quanto-cobrar-pela-criacao-de-um-site.png"
+    },
+    {
+      "id":3,
+      "name":"Cartão de Transporte",
+      "description":"Bilhete Único SP, Pelotas, Taubaté e Sorocaba",
+      "store_image":"https://www.pinclipart.com/picdir/middle/108-1089203_low-cost-hotels-flights-car-hire-travel-insurance.png"
+    },
+    {
+      "id":4,
+      "name":"Uber Pré-Pago",
+      "description":"Compre créditos para viajar de Uber",
+      "store_image":"https://logodownload.org/wp-content/uploads/2015/05/uber-logo-1-1.png"
+    },
+    {
+      "id":5,
+      "name":"Google Play",
+      "description":"Vales-presente do Google Play",
+      "store_image":"https://aigaminn.org/images/google-logo-png-cool-7.png"
+    }
+  ],
+
+  "games":[
+    {
+      "id":2,
+      "name":"Steam",
+      "description":"Códigos Steam para comprar jogos etc.",
+      "store_image":"https://img2.gratispng.com/20180604/xiy/kisspng-steam-computer-icons-logo-video-game-valves-5b14dba6212cf3.1367866015280936061359.jpg"
+    },
+    {
+      "id":3,
+      "name":"League of Legends",
+      "description":"Compre Riot Points",
+      "store_image":"https://i.pinimg.com/originals/30/0e/58/300e58c8416a68dcfcf1761501348243.jpg"
+    },
+    {
+      "id":4,
+      "name":"Xbox",
+      "description":"Compre jogos, filmes, música e muito mais",
+      "store_image":"https://i2.wp.com/noticiasetecnologia.com/wp-content/uploads/2018/07/Xbox-Store.jpg?fit=800%2C450&ssl=1"
+    }
+  ],
+
+  "musics":[
+    {
+      "id":1,
+      "name":"Spotify",
+      "description":"Gift cards para assinar ou presentear",
+      "store_image":"https://i.pinimg.com/originals/35/87/f8/3587f8e9df02e2990b93afb9cd6d2323.jpg"
+    },
+    {
+      "id":2,
+      "name":"Deezer",
+      "description":"Vale-presente para utilizar o Deezer",
+      "store_image":"https://www.shopmmarketing.com/wp-content/uploads/2019/06/a1bbc0448dee77724ef7f74b5bb6ed9e.png"
+    }
+  ],
+
+  "tvs":[
+    {
+      "id":1,
+      "name":"Claro TV Pré-Pago",
+      "description":"Recarga da Claro TV",
+      "store_image":"data:image/png;base64,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"
+    },
+    {
+      "id":2,
+      "name":"Sky TV Pré-Pago",
+      "description":"Recarga da SKY TV",
+      "store_image":"https://lh3.googleusercontent.com/proxy/eohSHpPhBxWzAkofbDvt6Tbpwr-nxdzdH52kZXmAlik6a6O8FjNzc99v6MQ7Z7Jo0VjAmcAXVTopLB_eF3eepx4FDZU28m0YQdh4_JeRmBEOFmsli6M2U87O_18"
+    }
+  ]
+}
