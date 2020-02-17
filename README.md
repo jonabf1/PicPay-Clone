@@ -17,11 +17,11 @@ This project is a clone of the PicPay application made in React Native.
 ### :heavy_check_mark: Mobile
 
 <p align="center">
-  <img alt="1" width="200px" src="public/1.gif">
-  <img alt="2" width="200px" src="public/2.gif">
-  <img alt="3" width="200px" src="public/3.gif">
-  <img alt="4" width="200px" src="public/4.gif">
-  <img alt="5" width="200px" src="public/5.gif">
+  <img alt="1" height="320px" src="public/1.gif">
+  <img alt="2" height="320px" src="public/2.gif">
+  <img alt="3" height="320px" src="public/3.gif">
+  <img alt="4" height="320px" src="public/4.gif">
+  <img alt="5" height="320px" src="public/5.gif">
 </p>
 
 ---
